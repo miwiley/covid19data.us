@@ -9,7 +9,7 @@ Goal: Make the time series data extremely easy for others to use, pull, chart, e
 
 "Keep it simple: Minimalist thinking"
 
-"A language is a choice, whatever gets it done i.e. Polyglot" - we all have are favorites
+"A language is a choice, whatever gets it done i.e. Polyglot" - we all have our favorites
 
 LINKS:
 
