@@ -42,4 +42,4 @@ LINKS:
 Credit to Johns Hopkins for giving us the data!
 Credit to the covidtracker folks - keeping an eye on the work there.
 
-[](images:/smaller_gcp_setup.png)
+![](images/smaller_gcp_setup.png)
