@@ -21,7 +21,7 @@ LINKS:
 
 -- news.covid19data.us --> transitioning https://ninjavirus.com [US centric WP site]
 
---- [needs contributions]
+-- https://covid19data.com -->World News Aggregation 
 
 -- www./ defaults to grafana for now [needs contributions]
 
