@@ -23,7 +23,7 @@ LINKS:
 
 -- https://covid19data.com -->World News Aggregation 
 
--- www./ defaults to grafana for now [needs contributions]
+-- www -- defaults to grafana for now [needs contributions]
 
 
 Credit to Johns Hopkins for giving us the data!
